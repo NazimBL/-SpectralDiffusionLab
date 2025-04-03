@@ -1,4 +1,4 @@
-# -SpectralDiffusionLab: Spectral Generation for Cancer Detection
+# SpectralDiffusionLab: Spectral Generation for Cancer Detection
 
 
 Generates synthetic FTIR spectra using conditioned diffusion models for endoscopic cancer research.
