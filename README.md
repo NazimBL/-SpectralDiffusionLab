@@ -15,4 +15,4 @@ Generates synthetic FTIR spectra using conditioned diffusion models for endoscop
 pip install -r requirements.txt
 
 # Generate samples
-python src/generate.py --class 1 --steps 200 --guidance 1.5
+python generate.py --class 1 --steps 200 --guidance 1.5
